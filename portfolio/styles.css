@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@400;600&family=Kufam:wght@700&display=swap');
+
+body {
+    margin: 2rem;
+    background-color: #E8F1F2;
+}
+
+h1 {
+    color: #13293D;
+    font-family: 'Kufam', sans-serif;
+}
+
+h2 {
+    font-family: 'Assistant', sans-serif;
+    font-weight: 600;
+}
+
+p {
+    font-size: 18px;
+    font-family: 'Assistant', sans-serif;
+    font-weight: 400;
+}
+
+span {
+    font-size: 17px;
+    font-style: italic;
+    text-decoration: underline;
+    font-family: 'Assistant', sans-serif;
+    font-weight: 400;
+}
+
+a {
+    text-decoration: none;
+}
+
+ol {
+    list-style-type: square;
+}
+
+li {
+    font-family: 'Assistant', sans-serif;
+}
+
+li:first-child {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+li.normal {
+    font-weight: normal;
+}
+
+img.person{
+    height: 17.5vmax;
+    width: auto;
+    border-radius: 15px;
+}
+
+img.linkedin{
+    margin-left: 10px;
+    height: 3vmax;
+    width: auto;
+}
